@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<title>nywkim's project</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>My Spotify Place</h1>
+      <h2>DE/DA Project</h2>
+    </div>
+    <div class="w3-padding-64">
+      <a href="#" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">HOME</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16">HOW ABOUT THIS SONG?</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Today's Mood</a>
+      <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">CONTACT ME</a>
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>ABOUT ME</h1>
+      <img src="https://i.scdn.co/image/ab6775700000ee850512e00d0e9c2cd7e1c28a9f" class="w3-margin w3-circle" alt="Person" style="width:40%">
+      <div class="w3-left-align w3-padding-large">
+        <p>Hello! I'm YoungWoo Kim.</p>
+        <p>I'm a student who is working on a project at CodeStates AI Bootcamp.</p>
+        <p>This space is my first project after all the sessions.</p>
+        <p>Please keep in mind that I will continue to improve the project!</p>
+        <p>When everything is ready, I'll change this phrase too :)</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64">
+      <h2>HOW ABOUT THIS SONG?</h2>
+      <p>Share your fav musics on Spotify :)</p>
+      <p><a href="https://open.spotify.com/search"><img src="https://developer.spotify.com/assets/branding-guidelines/icon4@2x.png" style="width:4%" alt="spotify" border="0"/></a>
+       click and browse your songs!</p>
+      <p>Share > Copy song link > Paste in the box below</p>
+      <p><span style="color:#dba206">! Please fill in all boxes !</span></p>
+    </div>
+
+    <form method="POST", action="{{url_for('index')}}">
+        <b>song1 :  <input type="text", name='a', placeholder="Paste a link here"><br><br>
+           song2 :  <input type="text", name='b', placeholder="Paste a link here"><br><br>
+           song3 :  <input type="text", name='c', placeholder="Paste a link here"><br><br><br></b>
+         <input type="submit" , value='Get a Recommendation' >
+     </form>
+    <p></p>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>Today's Mood</h2>
+      <p>The most upbeat/chillout songs I've heard recently</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <td></td>
+            <td></td>
+            <th style="text-align:right";>U P B E A T</th>
+          </tr>
+          <tr class="w3-white">
+            <td><img src={{sample1[3]}} width="90%" alt={{sample2[3]}} align="center" border="0"/></td>
+            <td>{{sample2[3]}}</td>
+            <td>{{sample3[3]}}</td>
+          </tr>
+          <tr>
+            <td><img src={{sample1[4]}} width="90%" alt={{sample2[4]}} align="center" border="0"/></td>
+            <td>{{sample2[4]}}</td>
+            <td>{{sample3[4]}}</td>
+          </tr>
+          <tr class="w3-white">
+            <td><img src={{sample1[5]}} width="90%" alt={{sample2[5]}} align="center" border="0"/></td>
+            <td>{{sample2[5]}}</td>
+            <td>{{sample3[5]}}</td>
+          </tr>
+          <tr>
+            <td>　</td>
+            <td>　</td>
+            <td>　</td>
+          </tr>
+          <tr class="w3-white">
+            <td></td>
+            <td></td>
+            <th style="text-align:right";>C H I L L O U T</th>
+          </tr>
+          <tr>
+            <td><img src={{sample1[0]}} width="90%" alt={{sample2[0]}} align="center" border="0"/></td>
+            <td>{{sample2[0]}}</td>
+            <td>{{sample3[0]}}</td>
+          </tr>
+          <tr class="w3-white">
+            <td><img src={{sample1[1]}} width="90%" alt={{sample2[1]}} align="center" border="0"/></td>
+            <td>{{sample2[1]}}</td>
+            <td>{{sample3[1]}}</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td><img src={{sample1[2]}} width="90%" alt={{sample2[2]}} align="center" border="0"/></td>
+            <td>{{sample2[2]}}</td>
+            <td>{{sample3[2]}}</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>CONTACT ME</h1>
+    </div>
+    <div class="w3-padding-64">
+      <p>...if you have any questions about me</p>
+      <p>or would like to help ;)</p>
+      <p>+82 1082113103</p>
+      <p>wew1224@naver.com</p>
+    </div>
+  </div>
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-padding-large">
+      <h1>Contact</h1>
+      <p class="w3-opacity">GET IN TOUCH</p>
+      <form class = "w3-container w3-card w3-padding-32 w3-white" method="POST" action="https://script.google.com/macros/s/AKfycbzOWtQZ-RfWUZZ3Rx7thp9ZHuwwRfLdNTLkUesO7X1AOe-1HWuA4WQN60VFc5mrnTt5Dw/exec">
+        <div class="w3-section">
+          <label>Name</label>
+          <input class="w3-input" style="width:100%;" type="text" placeholder="이름을 입력해주세요." required name="name">
+        </div>
+        <div class="w3-section">
+          <label>Email</label>
+          <input class="w3-input" style="width:100%;" type="text" placeholder="이메일을 입력해주세요." required name="email">
+        </div>
+        <div class="w3-section">
+          <label>Message</label>
+          <input class="w3-input" style="width:100%;" type="text" placeholder="남겨주실 내용을 입력해주세요." required name="message">
+        </div>
+        <div class="thankyou_message" style="display:none;">
+          <h2><em>Thanks</em> for contacting us!
+            We will get back to you soon!</h2>
+        </div>
+        <button type="submit" class = "w3-button w3-teal w3-right">Send</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16">
+  <p>project by nywkim</p>
+</footer>
+<script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+</body>
+</html>

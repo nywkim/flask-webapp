@@ -1,0 +1,29 @@
+<html>
+
+<body bgcolor=#9d3bc4>
+
+    <center>
+        <h2>  Recommendation for you :) </h2>
+        <h3>  오늘 당신을 위한 추천곡은, </h3>
+        <h1><div class="print"><span style="color:#92B3B7"> {{track}} </span></div></h1>
+        <img src={{image}} alt={{album}} width="300" height="300" align="center" border="0">
+        <h3> </h3><br>
+        {% if preview != None %}
+        <audio src={{preview}} controls=false>해당 곡은 프리뷰가 없습니다.</audio>
+        {% endif %}
+        <h3><span style="color:#afacb9"> from {{album}} </span></span></h3>
+        <h1><div class="print"><span style="color:#ced109"> {{artist}} </span></div></h1>
+        <a href={{link}}><img src="https://developer.spotify.com/assets/branding-guidelines/icon4@2x.png" style="width:4%" alt="spotify" border="0"/></a>
+        <h3>Listen on Spotify.</h3>
+    <h1> </h1><br>
+    <h3><span style="color:#afacb9"> Thank You :) </span></span></h3>
+
+        <br><br>
+    <a href='/'>go back to home page</a>
+    <h3> Project by nywkim </h3>
+
+    </center>
+
+</body>
+
+</html>
