@@ -1,6 +1,0 @@
-PORT_NUMBER = 8080
-SPOTIPY_CLIENT_ID='96011ab1ade840ee8811963bd589c340'
-SPOTIPY_CLIENT_SECRET='09aa9ef6dd3c45d0ab5b84a1623ca2eb'
-SPOTIPY_REDIRECT_URI='http://localhost:8080'
-SCOPE = 'user-top-read'
-CACHE = '.spotipyoauthcache'
