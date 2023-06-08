@@ -16,53 +16,81 @@ __practice__ : 연습장입니다.
 현재 db 재구성과 개선점 추가를 진행 중에 있습니다.
 
 
-
-<table border="1" cellpadding="0" cellspacing="0" style="BORDER-COLLAPSE: COLLAPSE; BORDER-TOP:1pt black; BORDER-RIGHT:1pt black; BORDER-BOTTOM:1pt black; BORDER-LEFT:1pt black ;"><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em ;PADDING-LEFT:0.17em ;VERTICAL-ALIGN: BOTTOM ;TEXT-ALIGN: JUSTIFY ;BORDER-TOP:black 0.5pt solid ;BORDER-RIGHT:black 0.5pt solid ;BORDER-BOTTOM:black 0.5pt solid ;BORDER-LEFT:black 0.5pt solid ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Outcome measure</span></p>
+<table style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; border-collapse: collapse; width:100%; border-collapse:collapse ;">
+<tbody><tr>
+<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
+<strong>Subject #</strong><br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">AYVAKIT</span></p>
+<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
+<strong>Age</strong><br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Placebo</span></p>
+<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
+<strong>Prior Therapy /</strong><br><strong># of Prior Lines</strong><br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p-value</span></p>
+<td colspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>SES-CD</strong></td>
+<td colspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>LIGHT pg/mL</strong></td>
+<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
+<strong>Response</strong><br>
 </td>
-</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in serum tryptase</span></p>
+</tr>
+<tr>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>Baseline</strong></td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>8 Weeks</strong></td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>Baseline</strong></td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>8 Weeks</strong></td>
+</tr>
+<tr>
+<td style="max-width:10%; width:10%; min-width:10%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #1</td>
+<td style="max-width:5%; width:5%; min-width:5%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">42</td>
+<td style="max-width:20%; width:20%; min-width:20%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Entyvio, <br>Stelara</td>
+<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">11</td>
+<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">4</td>
+<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">455</td>
+<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">24</td>
+<td style="max-width:33%; width:33%; min-width:33%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul>
+<li>64% reduction in SES-CD score (moderate to mild)</li>
+<li>Patient relapsed post treatment and needed surgery<br>
+</li>
+</ul> </td>
+</tr>
+<tr>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #2</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">63</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Humira, Entyvio, <br>Stelara<br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">53.9 %</span></p>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">18</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">19</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">193</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">29</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">No evidence of improvement<br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">0 %</span></p>
+</tr>
+<tr>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #3</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">28</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Humira, <br>Stelara, Methotrexate</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">21</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">15</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">75</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">27</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul type="disc">
+<li>29% reduction in SES-CD score (severe to moderate)</li>
+<li>Exploring single-patient IND<br>
+</li>
+</ul> </td>
+</tr>
+<tr>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #4</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">49</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Stelara, <br>Humira, Entyvio, Methotrexate, Mercaptopurine<br>
 </td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
-</td>
-</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in KIT D816V variant allele fraction</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">67.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">6.3 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
-</td>
-</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in bone marrow mast cell aggregates</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">52.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">22.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
-<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
-</td>
-</tr></table>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">12</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">3</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">162</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">45</td>
+<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul type="disc">
+<li>75% reduction in SES-CD score (moderate to mild)</li>
+<li>Exploring single-patient IND</li>
+</ul> </td>
+</tr>
+</tbody></table>
