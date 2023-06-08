@@ -15,6 +15,7 @@ __practice__ : 연습장입니다.
 
 현재 db 재구성과 개선점 추가를 진행 중에 있습니다.
 
+your study.\nFeel free to contact
 
 <table style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; border-collapse: collapse; width:100%; border-collapse:collapse ;">
 <tbody><tr>
