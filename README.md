@@ -14,3 +14,55 @@ __recent_music__ : 최근 들었던 음악을 가져와 db에 저장하는 함�
 __practice__ : 연습장입니다.
 
 현재 db 재구성과 개선점 추가를 진행 중에 있습니다.
+
+
+
+<table border="1" cellpadding="0" cellspacing="0" style="BORDER-COLLAPSE: COLLAPSE; BORDER-TOP:1pt black; BORDER-RIGHT:1pt black; BORDER-BOTTOM:1pt black; BORDER-LEFT:1pt black ;"><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em ;PADDING-LEFT:0.17em ;VERTICAL-ALIGN: BOTTOM ;TEXT-ALIGN: JUSTIFY ;BORDER-TOP:black 0.5pt solid ;BORDER-RIGHT:black 0.5pt solid ;BORDER-BOTTOM:black 0.5pt solid ;BORDER-LEFT:black 0.5pt solid ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Outcome measure</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">AYVAKIT</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Placebo</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p-value</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in serum tryptase</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">53.9 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">0 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in KIT D816V variant allele fraction</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">67.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">6.3 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">Proportion with ≥50% reduction in bone marrow mast cell aggregates</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">52.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">22.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style="PADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: MIDDLE; TEXT-ALIGN: CENTER; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt ;">
+<p style="MARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT ;"><span style="font-size:8pt; font-family:Arial; color:black; ;">p&lt;0.0001</span></p>
+</td>
+</tr></table>
