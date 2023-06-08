@@ -95,3 +95,53 @@ your study.\nFeel free to contact
 </ul> </td>
 </tr>
 </tbody></table>
+
+<table border="1" cellpadding="0" cellspacing="0" style="BORDER-COLLAPSE: COLLAPSE; BORDER-TOP:1pt black; BORDER-RIGHT:1pt black; BORDER-BOTTOM:1pt black; BORDER-LEFT:1pt black ;"><tr><td colspan="1" rowspan="1" style>
+<p style><span style>Outcome measure</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>AYVAKIT</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>Placebo</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>p-value</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style>
+<p style><span style>Proportion with ≥50% reduction in serum tryptase</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>53.9 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>0 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>p&lt;0.0001</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style>
+<p style><span style>Proportion with ≥50% reduction in KIT D816V variant allele fraction</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>67.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>6.3 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>p&lt;0.0001</span></p>
+</td>
+</tr><tr><td colspan="1" rowspan="1" style>
+<p style><span style>Proportion with ≥50% reduction in bone marrow mast cell aggregates</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>52.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>22.8 %</span></p>
+</td>
+<td colspan="1" rowspan="1" style>
+<p style><span style>p&lt;0.0001</span></p>
+</td>
+</tr></table>
