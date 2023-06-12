@@ -17,131 +17,777 @@ __practice__ : 연습장입니다.
 
 your study.\nFeel free to contact
 
-<table style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; border-collapse: collapse; width:100%; border-collapse:collapse ;">
+<table cellspacing="0" class="bwtablemarginb bwblockalignl bwwidth100">
 <tbody><tr>
-<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
-<strong>Subject #</strong><br>
-</td>
-<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
-<strong>Age</strong><br>
-</td>
-<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
-<strong>Prior Therapy /</strong><br><strong># of Prior Lines</strong><br>
-</td>
-<td colspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>SES-CD</strong></td>
-<td colspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>LIGHT pg/mL</strong></td>
-<td rowspan="2" style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">
-<strong>Response</strong><br>
+<td class colspan="13" rowspan="1" style>
+<p class style>
+Schedule 1
+
+</p>
 </td>
 </tr>
 <tr>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>Baseline</strong></td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>8 Weeks</strong></td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>Baseline</strong></td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; "><strong>8 Weeks</strong></td>
-</tr>
-<tr>
-<td style="max-width:10%; width:10%; min-width:10%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #1</td>
-<td style="max-width:5%; width:5%; min-width:5%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">42</td>
-<td style="max-width:20%; width:20%; min-width:20%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Entyvio, <br>Stelara</td>
-<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">11</td>
-<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">4</td>
-<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">455</td>
-<td style="max-width:8%; width:8%; min-width:8%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">24</td>
-<td style="max-width:33%; width:33%; min-width:33%;;border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul>
-<li>64% reduction in SES-CD score (moderate to mild)</li>
-<li>Patient relapsed post treatment and needed surgery<br>
-</li>
-</ul> </td>
-</tr>
-<tr>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #2</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">63</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Humira, Entyvio, <br>Stelara<br>
-</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">18</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">19</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">193</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">29</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">No evidence of improvement<br>
+<td class colspan="13" rowspan="1" style>
+<p class style>
+ALTRIA GROUP, INC.
+
+</p>
+<p class style>
+and Subsidiaries
+
+</p>
+<p class style>
+Reconciliation of GAAP and non-GAAP Measures
+
+</p>
+<p class style>
+(dollars in millions, except per share data)
+
+</p>
+<p class style>
+(Unaudited)
+
+</p>
 </td>
 </tr>
 <tr>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #3</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">28</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Humira, <br>Stelara, Methotrexate</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">21</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">15</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">75</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">27</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul type="disc">
-<li>29% reduction in SES-CD score (severe to moderate)</li>
-<li>Exploring single-patient IND<br>
-</li>
-</ul> </td>
+<td class colspan="13" rowspan="1" style></td>
 </tr>
 <tr>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: justify ;  vertical-align: middle; vertical-align: middle ; ">Subject #4</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">49</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">Remicade, Stelara, <br>Humira, Entyvio, Methotrexate, Mercaptopurine<br>
+<td class colspan="13" rowspan="1" style>
+<p class style>
+<b>Reconciliation of Altria’s Full-Year 2022 Adjusted Results</b>
+</p>
 </td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">12</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">3</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">162</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; text-align: center ;  vertical-align: middle; vertical-align: middle ; ">45</td>
-<td style="border-top: solid black 1pt ; border-right: solid black 1pt ; border-bottom: solid black 1pt ; border-left: solid black 1pt ; vertical-align: middle ; ">Significant mucosal healing: <ul type="disc">
-<li>75% reduction in SES-CD score (moderate to mild)</li>
-<li>Exploring single-patient IND</li>
-</ul> </td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="3" rowspan="1" style>
+<p class style>
+<b>Earnings before Income Taxes</b>
+</p>
+</td>
+<td class colspan="3" rowspan="1" style>
+<p class style>
+<b>Provision for Income Taxes</b>
+</p>
+</td>
+<td class colspan="3" rowspan="1" style>
+<p class style>
+<b>Net Earnings</b>
+</p>
+</td>
+<td class colspan="3" rowspan="1" style>
+<p class style>
+<b>Diluted EPS</b>
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>2022 Reported</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>7,389</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>1,625</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>5,764</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>3.19</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+NPM Adjustment Items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(68
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(17
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(51
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(0.03
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+Acquisition and disposition-related items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+11
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+2
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+9
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+—
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+Tobacco and health and certain other litigation items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+131
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+33
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+98
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+0.05
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+JUUL changes in fair value
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+1,455
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+—
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+1,455
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+0.81
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ABI-related special items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+2,544
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+534
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+2,010
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+1.12
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+Cronos-related special items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+186
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+—
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+186
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+0.10
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+Income tax items
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+—
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+729
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(729
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+(0.40
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+)
+
+</p>
+</td>
+</tr>
+<tr>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>2022 Adjusted for Special Items</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>11,648</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>2,906</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>8,742</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>$</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+<b>4.84</b>
+</p>
+</td>
+<td class colspan="1" rowspan="1" style>
+<p class style>
+ 
+
+</p>
+</td>
 </tr>
 </tbody></table>
-
-<table border="1" cellpadding="0" cellspacing="0" style="BORDER-COLLAPSE: COLLAPSE; BORDER-TOP:1pt black; BORDER-RIGHT:1pt black; BORDER-BOTTOM:1pt black; BORDER-LEFT:1pt black ;"><tr><td colspan="1" rowspan="1" style>
-<p style><span style>Outcome measure</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>AYVAKIT</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>Placebo</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>p-value</span></p>
-</td>
-</tr><tr><td colspan="1" rowspan="1" style>
-<p style><span style>Proportion with ≥50% reduction in serum tryptase</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>53.9 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>0 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>p&lt;0.0001</span></p>
-</td>
-</tr><tr><td colspan="1" rowspan="1" style>
-<p style><span style>Proportion with ≥50% reduction in KIT D816V variant allele fraction</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>67.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>6.3 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>p&lt;0.0001</span></p>
-</td>
-</tr><tr><td colspan="1" rowspan="1" style>
-<p style><span style>Proportion with ≥50% reduction in bone marrow mast cell aggregates</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>52.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>22.8 %</span></p>
-</td>
-<td colspan="1" rowspan="1" style>
-<p style><span style>p&lt;0.0001</span></p>
-</td>
-</tr></table>
