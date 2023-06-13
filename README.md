@@ -17,774 +17,774 @@ __practice__ : 연습장입니다.
 
 your study.\nFeel free to contact
 
-<table cellspacing="0" class="bwtablemarginb bwblockalignl bwwidth100">
+<table>
 <tbody><tr>
-<td class colspan="13" rowspan="1" style>
-<p class style>
+<td colspan="13" rowspan="1">
+<p>
 Schedule 1
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="13" rowspan="1" style>
-<p class style>
+<td colspan="13" rowspan="1">
+<p>
 ALTRIA GROUP, INC.
 
 </p>
-<p class style>
+<p>
 and Subsidiaries
 
 </p>
-<p class style>
+<p>
 Reconciliation of GAAP and non-GAAP Measures
 
 </p>
-<p class style>
+<p>
 (dollars in millions, except per share data)
 
 </p>
-<p class style>
+<p>
 (Unaudited)
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="13" rowspan="1" style></td>
+<td colspan="13" rowspan="1"></td>
 </tr>
 <tr>
-<td class colspan="13" rowspan="1" style>
-<p class style>
+<td colspan="13" rowspan="1">
+<p>
 <b>Reconciliation of Altria’s Full-Year 2022 Adjusted Results</b>
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="3" rowspan="1" style>
-<p class style>
+<td colspan="3" rowspan="1">
+<p>
 <b>Earnings before Income Taxes</b>
 </p>
 </td>
-<td class colspan="3" rowspan="1" style>
-<p class style>
+<td colspan="3" rowspan="1">
+<p>
 <b>Provision for Income Taxes</b>
 </p>
 </td>
-<td class colspan="3" rowspan="1" style>
-<p class style>
+<td colspan="3" rowspan="1">
+<p>
 <b>Net Earnings</b>
 </p>
 </td>
-<td class colspan="3" rowspan="1" style>
-<p class style>
+<td colspan="3" rowspan="1">
+<p>
 <b>Diluted EPS</b>
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>2022 Reported</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>7,389</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>1,625</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>5,764</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>3.19</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 NPM Adjustment Items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (68
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (17
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (51
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (0.03
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 Acquisition and disposition-related items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 11
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 2
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 9
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 —
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 Tobacco and health and certain other litigation items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 131
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 33
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 98
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 0.05
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 JUUL changes in fair value
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 1,455
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 —
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 1,455
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 0.81
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 ABI-related special items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 2,544
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 534
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 2,010
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 1.12
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 Cronos-related special items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 186
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 —
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 186
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 0.10
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 Income tax items
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 —
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 729
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (729
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 (0.40
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 )
 
 </p>
 </td>
 </tr>
 <tr>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>2022 Adjusted for Special Items</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>11,648</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>2,906</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>8,742</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>$</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
 <b>4.84</b>
 </p>
 </td>
-<td class colspan="1" rowspan="1" style>
-<p class style>
+<td colspan="1" rowspan="1">
+<p>
  
 
 </p>
